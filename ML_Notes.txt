@@ -1,0 +1,17 @@
+Preprocessing in ML:
+
+Preprocesing --> 
+Filling in the missing values.
+Encoding the dataset: Eg --> In the iris dataset, encoding various species into numbers.
+Feature Scaling: StandardScaler , MinMaxScaler.
+
+Removing unnecessary stopwords from data.
+
+K-Fold Cross validation --> For evaluating the true accuracy score of the model.
+GridCV --> For finding the best combination of hyper-parameters for the model.
+
+Stratified Splitting --> Used to split various target classes in same number.
+
+Vectorizing --> Converting string data to unique vectors for the ML model to train upon.
+
+Building a pipeline.
